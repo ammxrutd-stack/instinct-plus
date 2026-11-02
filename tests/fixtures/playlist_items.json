@@ -1,0 +1,176 @@
+{
+  "UUalpha0000000000000001": {
+    "": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "etag-UUalpha0000000000000001",
+      "nextPageToken": "ALPHA_PAGE2",
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000001",
+          "id": "UUalpha0000000000000001.alpha000001",
+          "contentDetails": {
+            "videoId": "alpha000001",
+            "videoPublishedAt": "2026-08-01T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000002",
+          "id": "UUalpha0000000000000001.alpha000002",
+          "contentDetails": {
+            "videoId": "alpha000002",
+            "videoPublishedAt": "2026-05-10T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-shared00001",
+          "id": "UUalpha0000000000000001.shared00001",
+          "contentDetails": {
+            "videoId": "shared00001",
+            "videoPublishedAt": "2026-03-15T15:00:00Z"
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 7,
+        "resultsPerPage": 50
+      }
+    },
+    "ALPHA_PAGE2": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "etag-UUalpha0000000000000001",
+      "nextPageToken": "ALPHA_PAGE3",
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000003",
+          "id": "UUalpha0000000000000001.alpha000003",
+          "contentDetails": {
+            "videoId": "alpha000003",
+            "videoPublishedAt": "2025-12-01T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000004",
+          "id": "UUalpha0000000000000001.alpha000004",
+          "contentDetails": {
+            "videoId": "alpha000004",
+            "videoPublishedAt": "2025-09-16T12:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000005",
+          "id": "UUalpha0000000000000001.alpha000005",
+          "contentDetails": {
+            "videoId": "alpha000005",
+            "videoPublishedAt": "2025-09-01T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000006",
+          "id": "UUalpha0000000000000001.alpha000006",
+          "contentDetails": {
+            "videoId": "alpha000006",
+            "videoPublishedAt": "2025-06-01T15:00:00Z"
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 7,
+        "resultsPerPage": 50
+      }
+    },
+    "ALPHA_PAGE3": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "etag-UUalpha0000000000000001",
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-alpha000007",
+          "id": "UUalpha0000000000000001.alpha000007",
+          "contentDetails": {
+            "videoId": "alpha000007",
+            "videoPublishedAt": "2024-01-01T15:00:00Z"
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 7,
+        "resultsPerPage": 50
+      }
+    }
+  },
+  "UUbeta00000000000000002": {
+    "": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "etag-UUbeta00000000000000002",
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-beta0000002",
+          "id": "UUbeta00000000000000002.beta0000002",
+          "contentDetails": {
+            "videoId": "beta0000002",
+            "videoPublishedAt": "2026-08-30T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-beta0000001",
+          "id": "UUbeta00000000000000002.beta0000001",
+          "contentDetails": {
+            "videoId": "beta0000001",
+            "videoPublishedAt": "2026-07-01T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-shared00001",
+          "id": "UUbeta00000000000000002.shared00001",
+          "contentDetails": {
+            "videoId": "shared00001",
+            "videoPublishedAt": "2026-03-15T15:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-beta0000003",
+          "id": "UUbeta00000000000000002.beta0000003",
+          "contentDetails": {
+            "videoId": "beta0000003"
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 4,
+        "resultsPerPage": 50
+      }
+    }
+  },
+  "UUtiny00000000000000003": {
+    "": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "etag-UUtiny00000000000000003",
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "etag-tiny0000001",
+          "id": "UUtiny00000000000000003.tiny0000001",
+          "contentDetails": {
+            "videoId": "tiny0000001",
+            "videoPublishedAt": "2026-06-01T15:00:00Z"
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+      }
+    }
+  }
+}

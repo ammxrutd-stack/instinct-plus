@@ -1,0 +1,176 @@
+{
+  "@alpha": {
+    "kind": "youtube#channelListResponse",
+    "etag": "etag-channel-list",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#channel",
+        "etag": "etag-UCalpha0000000000000001",
+        "id": "UCalpha0000000000000001",
+        "snippet": {
+          "title": "Alpha Gaming",
+          "description": "Alpha Gaming uploads.",
+          "customUrl": "@alpha",
+          "publishedAt": "2012-05-26T20:18:48Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/UCalpha0000000000000001=s88",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/UCalpha0000000000000001=s240",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/UCalpha0000000000000001=s800",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Alpha Gaming",
+            "description": "Alpha Gaming uploads."
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUalpha0000000000000001"
+          }
+        },
+        "statistics": {
+          "viewCount": "1234567890",
+          "hiddenSubscriberCount": false,
+          "videoCount": "812",
+          "subscriberCount": "2500000"
+        }
+      }
+    ]
+  },
+  "@beta": {
+    "kind": "youtube#channelListResponse",
+    "etag": "etag-channel-list",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#channel",
+        "etag": "etag-UCbeta00000000000000002",
+        "id": "UCbeta00000000000000002",
+        "snippet": {
+          "title": "Beta Plays",
+          "description": "Beta Plays uploads.",
+          "customUrl": "@beta",
+          "publishedAt": "2012-05-26T20:18:48Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/UCbeta00000000000000002=s88",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/UCbeta00000000000000002=s240",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/UCbeta00000000000000002=s800",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Beta Plays",
+            "description": "Beta Plays uploads."
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUbeta00000000000000002"
+          }
+        },
+        "statistics": {
+          "viewCount": "1234567890",
+          "hiddenSubscriberCount": false,
+          "videoCount": "812",
+          "subscriberCount": "10000"
+        }
+      }
+    ]
+  },
+  "@tiny": {
+    "kind": "youtube#channelListResponse",
+    "etag": "etag-channel-list",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#channel",
+        "etag": "etag-UCtiny00000000000000003",
+        "id": "UCtiny00000000000000003",
+        "snippet": {
+          "title": "Tiny Channel",
+          "description": "Tiny Channel uploads.",
+          "customUrl": "@tiny",
+          "publishedAt": "2012-05-26T20:18:48Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/UCtiny00000000000000003=s88",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/UCtiny00000000000000003=s240",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/UCtiny00000000000000003=s800",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Tiny Channel",
+            "description": "Tiny Channel uploads."
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUtiny00000000000000003"
+          }
+        },
+        "statistics": {
+          "viewCount": "1234567890",
+          "hiddenSubscriberCount": false,
+          "videoCount": "812",
+          "subscriberCount": "9999"
+        }
+      }
+    ]
+  },
+  "@ghost": {
+    "kind": "youtube#channelListResponse",
+    "etag": "etag-channel-list",
+    "pageInfo": {
+      "totalResults": 0,
+      "resultsPerPage": 5
+    },
+    "items": []
+  }
+}

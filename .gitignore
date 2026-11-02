@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# large / regenerable data. `python -m src.data.synthetic` rebuilds thumbnails;
+# raw API responses are never redistributed (YouTube API terms).
+data/thumbnails/
+data/raw/*
+!data/raw/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# notebooks
+.ipynb_checkpoints/
+
+# os
+.DS_Store

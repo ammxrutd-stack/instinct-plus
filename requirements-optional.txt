@@ -1,0 +1,9 @@
+# Heavier optional dependencies for future feature work. Nothing in src/
+# imports these today; see the "Not included, and why" sections in
+# docs/feature_dictionary_*.md for the intended use.
+spacy                 # then: python -m spacy download en_core_web_sm
+sentence-transformers
+mediapipe
+torch
+transformers
+google-api-python-client

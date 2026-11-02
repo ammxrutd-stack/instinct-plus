@@ -1,0 +1,657 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "etag-video-list",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "etag-alpha000001",
+      "id": "alpha000001",
+      "snippet": {
+        "publishedAt": "2026-08-01T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "I Beat The Hardest Level",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alpha000001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alpha000001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alpha000001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Beat The Hardest Level",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1500000",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-alpha000002",
+      "id": "alpha000002",
+      "snippet": {
+        "publishedAt": "2026-05-10T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Three Hour Marathon Highlights",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alpha000002/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alpha000002/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alpha000002/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Three Hour Marathon Highlights",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "820000",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-shared00001",
+      "id": "shared00001",
+      "snippet": {
+        "publishedAt": "2026-03-15T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Alpha x Beta Collab",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/shared00001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/shared00001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/shared00001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Alpha x Beta Collab",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40000",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-alpha000003",
+      "id": "alpha000003",
+      "snippet": {
+        "publishedAt": "2025-12-01T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Quick Clip #shorts",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alpha000003/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alpha000003/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alpha000003/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Quick Clip #shorts",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "999999",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-alpha000004",
+      "id": "alpha000004",
+      "snippet": {
+        "publishedAt": "2025-09-16T12:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Exactly A Year Ago",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alpha000004/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alpha000004/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alpha000004/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Exactly A Year Ago",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-beta0000001",
+      "id": "beta0000001",
+      "snippet": {
+        "publishedAt": "2026-07-01T15:00:00Z",
+        "channelId": "UCbeta00000000000000002",
+        "title": "First Look At The New Patch",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/beta0000001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/beta0000001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/beta0000001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beta Plays",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "First Look At The New Patch",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5000",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-beta0000002",
+      "id": "beta0000002",
+      "snippet": {
+        "publishedAt": "2026-08-30T15:00:00Z",
+        "channelId": "UCbeta00000000000000002",
+        "title": "Uploaded Last Week",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/beta0000002/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/beta0000002/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/beta0000002/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beta Plays",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Uploaded Last Week",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "100",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-tiny0000001",
+      "id": "tiny0000001",
+      "snippet": {
+        "publishedAt": "2026-06-01T15:00:00Z",
+        "channelId": "UCtiny00000000000000003",
+        "title": "Small Channel Upload",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tiny0000001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tiny0000001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiny0000001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiny Channel",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Small Channel Upload",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-noviews0001",
+      "id": "noviews0001",
+      "snippet": {
+        "publishedAt": "2026-04-01T15:00:00Z",
+        "channelId": "UCbeta00000000000000002",
+        "title": "Hidden View Count",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/noviews0001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/noviews0001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/noviews0001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beta Plays",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hidden View Count",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-live0000001",
+      "id": "live0000001",
+      "snippet": {
+        "publishedAt": "2026-04-02T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Premiere Tonight",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/live0000001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/live0000001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/live0000001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "localized": {
+          "title": "Premiere Tonight",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-orphan00001",
+      "id": "orphan00001",
+      "snippet": {
+        "publishedAt": "2026-04-03T15:00:00Z",
+        "channelId": "UCorphan000000000000009",
+        "title": "Channel Never Resolved",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orphan00001/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orphan00001/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orphan00001/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Orphan",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Channel Never Resolved",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "77",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-badduration",
+      "id": "badduration",
+      "snippet": {
+        "publishedAt": "2026-04-04T15:00:00Z",
+        "channelId": "UCalpha0000000000000001",
+        "title": "Malformed Duration",
+        "description": "Description text.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/badduration/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/badduration/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/badduration/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alpha Gaming",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Malformed Duration",
+          "description": "Description text."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "forty seconds",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "77",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 12
+  }
+}

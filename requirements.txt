@@ -1,0 +1,33 @@
+# Core: enough to collect data, train both models, run the tests and the app.
+# Python 3.9+. On macOS, XGBoost needs the OpenMP runtime: `brew install libomp`;
+# without it the trainer falls back to scikit-learn's gradient boosting.
+
+# data
+pandas
+numpy
+requests
+python-dotenv
+pyarrow
+
+# modelling
+scikit-learn
+scipy
+xgboost
+shap
+joblib
+
+# title features
+vaderSentiment
+
+# thumbnail features (OpenCV 5 removed the Haar cascade classifier; stay on 4.x)
+opencv-python-headless<5
+pillow
+
+# generation and app
+anthropic
+pydantic
+streamlit
+plotly
+
+# testing
+pytest
