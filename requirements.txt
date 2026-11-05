@@ -3,31 +3,31 @@
 # without it the trainer falls back to scikit-learn's gradient boosting.
 
 # data
-pandas
-numpy
-requests
-python-dotenv
-pyarrow
+pandas==2.3.3
+numpy==2.0.2
+requests==2.32.5
+python-dotenv==1.2.1
+pyarrow==21.0.0
 
 # modelling
-scikit-learn
-scipy
-xgboost
-shap
-joblib
+scikit-learn==1.6.1
+scipy==1.13.1
+xgboost==2.1.4
+shap==0.49.1
+joblib==1.5.3
 
 # title features
-vaderSentiment
+vaderSentiment==3.3.2
 
 # thumbnail features (OpenCV 5 removed the Haar cascade classifier; stay on 4.x)
-opencv-python-headless<5
-pillow
+opencv-python-headless==4.14.0.94
+pillow==11.3.0
 
 # generation and app
-anthropic
-pydantic
-streamlit
-plotly
+anthropic==0.125.0
+pydantic==2.13.5
+streamlit==1.50.0
+plotly==7.1.0
 
 # testing
 pytest

@@ -137,7 +137,12 @@ def _manifest_files():
 
 @st.cache_data
 def _known_videos(stamp: tuple) -> pd.DataFrame:
-    frames = [pd.read_csv(f) for f in _manifest_files()]
+    frames = []
+    for f in _manifest_files():
+        df = pd.read_csv(f)
+        # thumbnails sit beside the manifest, wherever the repo is checked out
+        df["path"] = [str(f.parent / f"{v}.jpg") for v in df["video_id"]]
+        frames.append(df)
     if not frames:
         return pd.DataFrame(columns=["channel", "video_id", "title", "views", "md5", "filename", "path"])
     return pd.concat(frames, ignore_index=True)
